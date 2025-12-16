@@ -1,43 +1,47 @@
 # Je suis Raimanu PAIN  
 
-## 💻 Alternant chez CALINFO | Master MIAGE | Développeur & Gestion de projet  
+## 💻 Développeur IBM i / ADELIA – CALINFO (CDI) | Master MIAGE  
 
-Passionné par l’informatique et la gestion de projet, je suis actuellement en **Master MIAGE** à l'Université de Nouvelle-Calédonie.  
-Fort d’une **licence en informatique avec mention bien**, j'ai acquis des compétences en développement et en gestion de projet.  
+Développeur en **CDI chez CALINFO**, en prestation à la **CAFAT**, spécialisé sur les environnements **IBM i (AS400)**.  
+Diplômé d’un **Master MIAGE** et d'une licence informatique à l’Université de Nouvelle-Calédonie.
 
 ---
 
 ## 🚀 Expérience professionnelle  
 
-🔹 **Alternant chez CALINFO, prestataire chez CAFAT**  
-- 🛠️ Intervention sur des **tickets de changement et d’incident** sur des applications **AS400 / ADELIA**.  
-- 📈 Montée en compétences sur l’environnement **IBM i (AS400)** et le langage **ADELIA**.  
-
----
-
-## 🎯 Projets en cours  
-
-📚 **Finalisation de mon Master MIAGE**  
-- 🔍 Approfondissement des compétences en **développement** et en **gestion de SI**.  
+### 🔹 Développeur chez CALINFO – Prestataire CAFAT  
+- Maintenance et évolution d’applications métiers **AS400 / ADELIA**  
+- Traitement de **tickets d’incident et de changement (MCO)**  
+- Analyse fonctionnelle, correction d’anomalies, évolutions applicatives  
+- Travail en environnement **IBM i**, sur des **SI critiques**
 
 ---
 
 ## 🛠️ Compétences  
 
-💻 **Développement** : En apprentissage sur **ADELIA** et **AS400**, maîtrise des **langages de programmation** acquis durant ma licence.  
-📊 **Gestion de projet** : Méthodologies **Agile**, **Scrum**, analyse des besoins et rédaction de documentation technique.  
+### 💻 Développement / Systèmes d’information  
+- **IBM i (AS400)**  
+- **ADELIA**  
+- Maintenance applicative  
+- Lecture et compréhension de SI existants  
+
+### 📊 Gestion de projet / Méthodes  
+- Bases **Agile / Scrum**  
+- Analyse des besoins  
+- Documentation technique et fonctionnelle  
 
 ---
 
-## 🌱 Ce que j’apprends actuellement  
+## 🌱 En progression  
 
-🔹 **Approfondissement sur ADELIA et AS400**  
-🔹 **Gestion et maintenance des applications IBM i**  
-🔹 **Gestion de projet et de SI**  
+- Approfondissement **ADELIA / IBM i**  
+- Compréhension globale des **SI d’entreprise**  
+- Qualité, fiabilité et maintenabilité des applications métiers  
 
 ---
 
-## 📌 Objectifs  
+## 🎯 Objectifs  
 
-🚀 Développer mon **expertise sur les technologies IBM i et les SI d’entreprise**.  
-🤝 Appliquer mes compétences pour **accompagner la transformation numérique en Nouvelle-Calédonie**.  
+- Monter en **expertise sur IBM i et les systèmes d’information complexes**  
+- Être un **profil fiable et polyvalent** sur des SI critiques  
+- Contribuer à la **modernisation numérique en Nouvelle-Calédonie**
