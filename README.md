@@ -1,9 +1,9 @@
 # Je suis Raimanu PAIN  
 
-## 💻 Développeur IBM i / ADELIA – CALINFO (CDI) | Master MIAGE  
+## 💻 Développeur IBM i / ADELIA – CALINFO (CDI) | Diplomé Master MIAGE
 
 Développeur en **CDI chez CALINFO**, en prestation à la **CAFAT**, spécialisé sur les environnements **IBM i (AS400)**.  
-Diplômé d’un **Master MIAGE** et d'une licence informatique à l’Université de Nouvelle-Calédonie.
+Diplômé d’un **Master MIAGE** et d'une licence informatique à l’Université de Nouvelle-Calédonie avec une mention **bien** pour les deux.
 
 ---
 
